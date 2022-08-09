@@ -1,0 +1,24 @@
+package fudamentos;
+
+public class Temperatura {
+	public static void main(String[] args) {
+		
+		double f = 86;
+		double temp = 32;
+		double c = (f - temp) * 5.0/9.0;
+		System.out.println("a temperatura e de " + c +" graus celsius.");
+ 					
+	
+	 /* 
+	  * Podia tb fazer de outra forma exemplo
+	  * 
+	  final double f = 5.0 / 9.0;
+	  final double temp = 32;
+	  double fahrenheit = 86;
+	  double celsius = (fahrenheit - temp) * f;
+	  
+	 System.out.println("a temperatura e de " + celsius +" graus celsius.");
+	  
+	  	*/
+	}
+}

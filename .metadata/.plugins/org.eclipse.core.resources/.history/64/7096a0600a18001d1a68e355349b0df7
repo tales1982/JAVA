@@ -1,0 +1,14 @@
+package fudamentos;
+
+public class NotacaoPonto {
+	public static void main(String[] args) {
+		String s = "Bom dia x";
+		s = s.replace("x", "senhora");
+		s.toUpperCase();
+		s = s.toUpperCase();
+		
+		
+		
+		System.out.println(s);
+	}
+}

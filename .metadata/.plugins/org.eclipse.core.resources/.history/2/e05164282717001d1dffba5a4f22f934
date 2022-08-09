@@ -1,0 +1,16 @@
+package fudamentos;
+
+public class AreaCircuferencia {
+	
+	public static void main(String[] args) {
+		String nome = "tales";
+		int idade = 40;
+		System.out.println("Bem vindo");
+		System.out.println(nome + " voce tem " + idade + " anos ");
+	if (idade <= 39) {
+		System.out.println("Parabens");
+	}else {
+		System.out.println("tente de novo");
+	}} 
+		
+}

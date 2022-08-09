@@ -1,0 +1,9 @@
+package fudamentos;
+
+public class Inferencia {
+	public static void main(String[] args) {
+		var nome = "tales";
+		System.out.println(nome);
+	}
+
+}

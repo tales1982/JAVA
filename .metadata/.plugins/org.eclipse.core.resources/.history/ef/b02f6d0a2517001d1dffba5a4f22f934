@@ -1,0 +1,10 @@
+package fudamentos;
+
+public class AreaCircuferencia {
+	
+	public static void main(String[] args) {
+		String nome = "tales";
+		System.out.println(nome);
+	}
+
+}

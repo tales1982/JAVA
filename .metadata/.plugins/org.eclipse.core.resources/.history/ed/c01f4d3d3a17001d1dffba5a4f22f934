@@ -1,0 +1,27 @@
+/**
+ * 
+ * @author Tales
+ *
+ */
+
+// comentario
+
+/*comentario*/
+
+/*comentario
+ * linha1
+ * linha2
+ * lina3 
+ */
+
+package fudamentos;
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Word");
+		System.out.println("Ola tales");
+		System.out.println("tudo bem");
+
+	}
+}

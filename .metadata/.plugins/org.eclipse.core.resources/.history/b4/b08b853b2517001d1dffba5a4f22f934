@@ -1,0 +1,12 @@
+package fudamentos;
+
+public class AreaCircuferencia {
+	
+	public static void main(String[] args) {
+		String nome = "tales";
+		int idade = 39;
+		System.out.println("Bem vindo");
+		System.out.println(nome, idade);
+	}
+
+}
