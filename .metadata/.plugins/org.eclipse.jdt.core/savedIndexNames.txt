@@ -1,8 +1,4 @@
 INDEX VERSION 1.131+C:\Users\Tales\Documents\GitHub\Eclipse-Workspace\.metadata\.plugins\org.eclipse.jdt.core
-2817212792.index
-4095218903.index
-1801090625.index
-3654592591.index
-279464321.index
-528018711.index
 1102349192.index
+3654592591.index
+1372677264.index
