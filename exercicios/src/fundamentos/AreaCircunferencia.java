@@ -10,7 +10,7 @@ public class AreaCircunferencia {
 		
 		raio = 10;
 		area = PI * raio * raio;
-		System.out.println("Area = " + area + "m2");
+		System.out.println("Area = " + area + "m2.");
 	}
 
 }
