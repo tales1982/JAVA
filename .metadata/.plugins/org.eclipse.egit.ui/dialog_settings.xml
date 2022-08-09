@@ -7,6 +7,10 @@
 		<item value="github.com"/>
 		<item value="bitbucket.org"/>
 	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/tales1982/JAVA"/>
+		<item value="file://C:\Users\Tales\Documents\GitHub\Eclipse-Workspace"/>
+	</list>
 	<section name="GitImportWizard">
 	</section>
 </section>
