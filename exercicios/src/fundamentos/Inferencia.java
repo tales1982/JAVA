@@ -31,7 +31,7 @@ public class Inferencia {
 		d = 123.456;//aqui passo o valor da variavel d
 		System.out.println(d);// variavel usada
 		
-		var e = 123.45;
+		var e = 123.4567;
 		System.out.println(e);
 	}
 }
