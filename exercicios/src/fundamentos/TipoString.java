@@ -10,16 +10,17 @@ public class TipoString {
 		System.out.println(s.concat("!!!"));//concateno a variavel com !!!.
 		System.out.println(s + "!!!");//Outra maneira de concatenar minha variavel.
 		System.out.println(s.startsWith("Boa"));//Estou perguntando se minha variavel comesar com (Boa) vai dizer verdadeiro ou falso.
+		System.out.println(s.toLowerCase());
 		System.out.println(s.toLowerCase().startsWith("boa"));//posso converter para minusculo e pergunta se e verdadeiro.
-		System.out.println(s.length());// Me retorna quantas letras tem minhas variavel.
+		System.out.println(s.length());// Me retorna quantas letras tem minhas variavel. 
 		System.out.println(s.endsWith("dia!"));//Estou perguntando se ternima com dia.
-		System.out.println(s.equals("boa tarde"));//estou perguntando e e igual a minha variavel, no caso nao (FALSE)porque o b e minusculo.
-		System.out.println(s.equalsIgnoreCase("boa tarde"));//Estou perguntado se e igual a minha variavel e que iguinore letras maiscula e minusculas.
+		System.out.println(s.equals("boa tarde"));//estou perguntando se o (boa tarde) igual a minha variavel, no caso nao (FALSE)porque o b e minusculo.
+		System.out.println(s.equalsIgnoreCase("boa tarde"));//Estou perguntado se o (boa tarde) igual a minha variavel e que iguinore letras maiscula e minusculas.
 		
 		//Outras Maneiras de concatenar
 		var nome = "Tales";
 		var sobrenome = "Lima";
-		var idade = 33;
+		var idade = 39;
 		var salario = 2.875;
 		
 		//Obs \n pula linha na concatenacao
