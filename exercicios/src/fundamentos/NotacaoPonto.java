@@ -13,7 +13,7 @@ public class NotacaoPonto {
 		System.out.println(s);
 		
 		
-		String x = "Tales".toUpperCase();// converto para maiscula 
+		String x = "Tales. ".toUpperCase();// converto para maiscula 
 		System.out.println(x);
 		
 		
