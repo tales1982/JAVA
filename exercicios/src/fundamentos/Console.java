@@ -14,7 +14,8 @@ public class Console {
 		System.out.printf("Megasena: %d %d %d %d %d %d \n", 1, 2, 3, 4, 5, 6);
 
 		System.out.printf("Salario: %.3f\n", 1234.5678);
-
+		System.out.printf("Nome: %s\n","João");
+		
 		// a entrada scaner e usada pra captura o teclado no casso oque eu digita.
 		Scanner entrada = new Scanner(System.in);
 
@@ -22,10 +23,15 @@ public class Console {
 
 		String nome = entrada.nextLine();
 
-		System.out.println("Digite o seu Sobrenome: ");
+		System.out.print("Digite o seu Sobrenome: ");
 
 		String sobrenome = entrada.nextLine();
 
-		System.out.println("\n\n Nome = " + nome +" " + sobrenome);
+		System.out.print("Digite sua idade");
+		int idade = entrada.nextInt();
+		
+		System.out.printf("%s %s tem %d anos. \n", nome, sobrenome, idade );
+		
+		entrada.close();
 	}
 }
