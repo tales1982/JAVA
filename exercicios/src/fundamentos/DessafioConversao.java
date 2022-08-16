@@ -25,5 +25,6 @@ public class DessafioConversao {
 		System.out.println("A soma do seu salario e de " + soma  + " Euros   \nE A media do seu salario e de " + soma / 3 + " Euros Mensal.." );
 		
 		mediasalario.close();// fechamento do metodo scanner
+		
 	}
 }
