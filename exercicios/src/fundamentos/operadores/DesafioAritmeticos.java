@@ -26,7 +26,6 @@ public class DesafioAritmeticos {
 		/*
 		 * poderia tambem no n1 declara assim
 		 * Math.pow(6 * (3 + 2),2) declarando n1 e n2 juntos
-		 * 
 		 * */
 		
 		
