@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.operadores;
 
 public class Aritmeticos {
 	public static void main(String[] args) {
@@ -21,6 +21,6 @@ public class Aritmeticos {
 		System.out.println(a * b);
 		System.out.println(a / b);
 		System.out.println(a / (double)b);// estou convertendo meu numero inteiro pra double para ter a resposta exata
-		System.out.println(a % b );//o resultado e o resto da divisao. 8/3= no casso 6-> 2 pra cada sobra(2)
+		System.out.println(a % b );//o resultado e o resto da divisao. 8/3= no casso 6-> 2 pra cada sobra(2)..
 	}
 }
