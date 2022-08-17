@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class ConversaoFahrenheit {
+public class DesafioFahrenheit {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
