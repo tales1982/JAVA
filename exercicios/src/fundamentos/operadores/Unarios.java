@@ -16,8 +16,8 @@ public class Unarios {
 		System.out.println(b);
 		
 		System.out.println("MiniDesafio...");
-		System.out.println(++a == b--);// atencao na ordem de precedencia o (b) so vai incrementa depois q ele ja tiver feito a comparacao. 
-		System.out.println(a == --b);
+		System.out.println(++a == b--);//--> true atencao na ordem de precedencia o (b) so vai incrementa depois q ele ja tiver feito a comparacao. 
+		System.out.println(a == --b);//--> false
 		System.out.println();
 	}
 }
