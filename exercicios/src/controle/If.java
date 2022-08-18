@@ -11,11 +11,11 @@ public class If {
 
             if (media <=10 && media >= 7){
                 System.out.println("Aprovado \nParabens");
-            }if (media <7 && media >=4.5){
+            }else if (media <7 && media >=4.5){
                 System.out.println("Recuperação");
-            }if (media <4.5){
+            }else if (media <4.5){
                 System.out.println("Reprovado");
-            }
+            }else{System.out.println("erro");}
 
             entrada.close();
     }
