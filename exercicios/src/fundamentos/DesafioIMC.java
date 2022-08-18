@@ -2,8 +2,9 @@ package fundamentos;
 
 
 
-
 import java.util.Scanner;
+import java.util.Locale;
+
 
 public class DesafioIMC{
     /**
@@ -12,8 +13,8 @@ public class DesafioIMC{
     public static void main(String[] args) {
         
 
-        Scanner entrada = new Scanner(System.in);
-        
+        Scanner entrada = new Scanner(System.in).useLocale(Locale.US);
+        //usando o locale posso usar o ponto no lugar da virgula.
 
         System.out.println("Ola vamos calcula o seu IMC");
 
