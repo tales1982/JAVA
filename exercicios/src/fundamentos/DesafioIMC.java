@@ -5,7 +5,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class DesafioIMC {
+public class DesafioIMC{
     /**
      * @param args
      */
@@ -39,7 +39,7 @@ public class DesafioIMC {
         }else if(imc >=40){
             System.out.println(" Sua Classificação é de Obesidade grau III");
         }else{
-            System.out.println("erro");
+            System.out.println("erro..");
         }
 
         
