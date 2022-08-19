@@ -15,7 +15,7 @@ public class LerIdade {
         String valor3 = JOptionPane.showInputDialog("Ola digite quantos dias");
         int dia = Integer.parseInt(valor3);
 
-        int res = ((idade * 365)+(meis * 30)+dia);
+        int res = ((idade * 365)+(meis * 30))+dia;
         System.out.println("Voce ja viveu " + res + " dias.");
     }
 }
