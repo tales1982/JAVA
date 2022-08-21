@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class WhileIndeterminado {
     public static void main(String[] args) {
-        Scannernner in = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
         String res = "";
 
