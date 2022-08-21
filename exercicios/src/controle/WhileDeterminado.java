@@ -10,5 +10,6 @@ public class WhileDeterminado {
             contador ++; //pode ser tamben assim --> i = i + 1;
             System.out.println( contador );
         }
+        System.out.println("fim");
     }
 }
